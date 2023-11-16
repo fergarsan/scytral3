@@ -1,0 +1,43 @@
+Performance;All trades;Long trades;Short trades
+Total net profit;-4603,64 euros;-5579,60 euros;975,96 euros
+Gross profit;441976,68 euros;234309,72 euros;207666,96 euros
+Gross loss;-446580,32 euros;-239889,32 euros;-206691,00 euros
+Commission;14528,64 euros;7929,60 euros;6599,04 euros
+Profit factor;0,99;0,98;1
+Max drawdown;-54415,72 euros;-37660,40 euros;-28116,08 euros
+Sharpe ratio;-0,11;-0,1;-0,03
+Sortino ratio;-0,14;-0,13;-0,04
+Ulcer index;0,13;0,09;0,06
+R squared;0,09;0,02;0,17
+Probability;63,94%;68,20%;52,54%
+;;;
+Start date;01/01/2020;;
+End date;10/11/2021;;
+;;;
+Total # of trades;3243;1770;1473
+Percent profitable;26,49%;26,05%;27,02%
+# of winning trades;859;461;398
+# of losing trades;2384;1309;1075
+# of even trades;0;0;0
+;;;
+;;;
+Avg trade;-1,42 euros;-3,15 euros;0,66 euros
+Avg winning trade;514,52 euros;508,26 euros;521,78 euros
+Avg losing trade;-187,32 euros;-183,26 euros;-192,27 euros
+Ratio avg win / avg loss;2,75;2,77;2,71
+;;;
+Max consec winners;5;9;4
+Max consec losers;22;18;20
+Largest winning trade;11745,52 euros;6895,52 euros;11745,52 euros
+Largest losing trade;-6279,48 euros;-5904,48 euros;-6279,48 euros
+;;;
+Avg # of trades per day;7,23;3,94;3,28
+Avg time in market;19,64 min;22,61 min;16,06 min
+Avg bars in trade;0;0;0
+Profit per month;-216,02 euros;-261,81 euros;45,80 euros
+Max time to recover;610,00 days;610,00 days;566,98 days
+Longest flat period;4,94 days;4,94 days;5,03 days
+;;;
+Avg MAE;239,99 euros;231,03 euros;250,76 euros
+Avg MFE;419,39 euros;396,95 euros;446,35 euros
+Avg ETD;420,81 euros;400,10 euros;445,69 euros
